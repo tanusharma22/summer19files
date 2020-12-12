@@ -1,9 +1,0 @@
-<html>
-<body>
-<form action ="/cgi-bin/cmd.py">
-<input name="a" placeholder="enter your command">
-<input name="b" type="submit">
-</form>
-</body>
-</html>
-
